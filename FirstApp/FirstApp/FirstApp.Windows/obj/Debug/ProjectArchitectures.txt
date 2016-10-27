@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\FirstApp\FirstApp\FirstApp.Windows\FirstApp.Windows.csproj;neutral
+C:\Users\User\Documents\Visual Studio 2015\Projects\FirstApp\FirstApp\FirstApp\FirstApp.csproj;neutral
