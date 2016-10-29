@@ -14,6 +14,7 @@ https://youtu.be/GEqNr6wJvY4
 http://www.slideshare.net/cheahengsoon/azure-mobile-services-with-xamarinforms
 
 5.Documentation
+
 Xamarin.Forms Layouts (http://stackoverflow.com/documentation/xamarin.forms/6273/xamarin-forms-layouts#t=201610110616461590425)
 
 Xamarin.Forms Page (http://stackoverflow.com/documentation/xamarin.forms/7017/xamarin-plugin#t=201610110618020568488)
