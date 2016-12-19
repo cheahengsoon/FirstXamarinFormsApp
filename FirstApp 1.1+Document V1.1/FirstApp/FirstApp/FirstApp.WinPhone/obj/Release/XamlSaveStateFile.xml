@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\firstapp\firstapp.winphone\obj\release\intermediatexaml\firstapp.winphone.exe" HashGuid="89d6bdce-2fc7-7f41-7e24-a4cf3c1e8b14" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\firstapp\firstapp\bin\release\firstapp.dll" HashGuid="922632a0-a0a2-a9bb-be05-c3570e37ac3a" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\hockeysdk.xamarin.4.1.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\hockeysdk.dll" HashGuid="14bdf0cc-284d-a35c-1665-c3b74fab8ac2" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="94274a37-ad6c-fd1e-7bbb-eccc6cb7804c" />
+    <ReferenceAssembly PathName="c:\users\user\documents\visual studio 2015\projects\firstapp\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
