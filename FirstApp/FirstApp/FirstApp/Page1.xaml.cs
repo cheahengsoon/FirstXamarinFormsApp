@@ -166,7 +166,7 @@ namespace FirstApp
             var PhoneCallTask = MessagingPlugin.PhoneDialer;
             if (PhoneCallTask.CanMakePhoneCall)
                 PhoneCallTask.MakePhoneCall("999");
-            DisplayAlert("Call Police", "Call 999", "Cancel");
+           // DisplayAlert("Call Police", "Call 999", "Cancel");
         }
         void CallHospital(object sender, EventArgs e)
         {
@@ -174,7 +174,7 @@ namespace FirstApp
             var PhoneCallTask = MessagingPlugin.PhoneDialer;
             if (PhoneCallTask.CanMakePhoneCall)
                 PhoneCallTask.MakePhoneCall("999");
-            DisplayAlert("Call Ambulance", "Call 999", "Cancel");
+           // DisplayAlert("Call Ambulance", "Call 999", "Cancel");
         }
 
     }
