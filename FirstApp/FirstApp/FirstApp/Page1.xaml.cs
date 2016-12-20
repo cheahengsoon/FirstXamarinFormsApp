@@ -1,5 +1,7 @@
 ﻿using Plugin.Geolocator;
 using Plugin.Messaging;
+using Plugin.Permissions;
+using Plugin.Permissions.Abstractions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,9 +24,26 @@ namespace FirstApp
                 var phonenumber = (string)Application.Current.Properties["PhoneNo"];
                 txtPhoneNumber.Text = phonenumber;
             }
+           // AskPermission();
+           
            GetGPS();
             GetTrack();
         }
+
+        //private async  void AskPermission()
+        //{
+        //    var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Location);
+        //    if (status != PermissionStatus.Granted)
+        //    {
+        //        if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Location))
+        //        {
+        //            await DisplayAlert("Need location", "Gunna need that location", "OK");
+        //        }
+
+        //        var results = await CrossPermissions.Current.RequestPermissionsAsync(Permission.Location);
+        //        status = results[Permission.Location];
+        //    }
+        //}
 
         private async void GetTrack()
         {
@@ -147,6 +166,7 @@ namespace FirstApp
             var PhoneCallTask = MessagingPlugin.PhoneDialer;
             if (PhoneCallTask.CanMakePhoneCall)
                 PhoneCallTask.MakePhoneCall("999");
+            DisplayAlert("Call Police", "Call 999", "Cancel");
         }
         void CallHospital(object sender, EventArgs e)
         {
@@ -154,6 +174,7 @@ namespace FirstApp
             var PhoneCallTask = MessagingPlugin.PhoneDialer;
             if (PhoneCallTask.CanMakePhoneCall)
                 PhoneCallTask.MakePhoneCall("999");
+            DisplayAlert("Call Ambulance", "Call 999", "Cancel");
         }
 
     }

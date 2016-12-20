@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ENGSOON</Machine>
+    <WindowsUser>es.cheah</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7b22d05b-43f3-48ad-be64-9c4b7d9dd746</PackageIdentityName>
+    <PackageIdentityPublisher>CN=User</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\obj\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\FirstApp.Windows.exe">
+      <PackagePath>FirstApp.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\FirstApp.dll">
+      <PackagePath>FirstApp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\HockeySDK.Xamarin.4.1.0\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\HockeySDK.dll">
+      <PackagePath>HockeySDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Plugin.Permissions.1.2.1\lib\win8\Plugin.Permissions.Abstractions.dll">
+      <PackagePath>Plugin.Permissions.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Plugin.Permissions.1.2.1\lib\win8\Plugin.Permissions.dll">
+      <PackagePath>Plugin.Permissions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Geolocator.Abstractions.dll">
+      <PackagePath>Plugin.Geolocator.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Messaging.Abstractions.dll">
+      <PackagePath>Plugin.Messaging.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Geolocator.dll">
+      <PackagePath>Plugin.Geolocator.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Messaging.dll">
+      <PackagePath>Plugin.Messaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\Message-Edit.png">
+      <PackagePath>FirstApp\Message-Edit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\FirstApp.Windows.xr.xml">
+      <PackagePath>FirstApp.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\packages\Xamarin.Forms.2.3.3.175\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -8,7 +8,7 @@
   <uses-permission android:name="android.permission.SEND_SMS" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="FirstApp.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon">
+  <application android:label="FirstApp.Droid" android:name="md5a4c8919ae3c4a199bd19336edffb177d.MainApplication" android:allowBackup="true" android:icon="@drawable/icon">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="FirstApp" android:theme="@style/MainTheme" android:name="md5a4c8919ae3c4a199bd19336edffb177d.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

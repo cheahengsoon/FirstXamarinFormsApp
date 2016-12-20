@@ -166,5 +166,17 @@ C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstA
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\FirstApp.Droid.dll.mdb
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\bin\Debug\FirstApp.Droid.dll.mdb

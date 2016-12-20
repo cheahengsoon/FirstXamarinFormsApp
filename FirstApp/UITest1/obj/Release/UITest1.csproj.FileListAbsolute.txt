@@ -41,3 +41,5 @@ C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\bin\Rel
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\obj\Release\UITest1.csprojResolveAssemblyReference.cache
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\obj\Release\UITest1.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\obj\Release\UITest1.pdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\bin\Release\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\UITest1\bin\Release\Plugin.CurrentActivity.xml

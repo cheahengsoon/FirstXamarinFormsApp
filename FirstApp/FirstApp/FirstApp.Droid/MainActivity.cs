@@ -26,6 +26,10 @@ namespace FirstApp.Droid
 
             CrashManager.Register(this, "792f64eea52a4da4820ad477b587904d");
         }
+        //public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Permission[] grantResults)
+        //{
+        //    Plugin.Permissions.PermissionsImplementation.Current.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+        //}
     }
 }
 

@@ -3,6 +3,9 @@ C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstA
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\HockeySDK.AndroidBindings.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\HockeySDK.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Plugin.Permissions.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll

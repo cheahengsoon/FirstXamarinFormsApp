@@ -2,6 +2,10 @@ FirstApp.Droid.MainActivity, FirstApp.Droid;md5a4c8919ae3c4a199bd19336edffb177d.
 FirstApp.Droid.MainActivity, FirstApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a4c8919ae3c4a199bd19336edffb177d.MainActivity
 FirstApp.Droid.MainActivity;md5a4c8919ae3c4a199bd19336edffb177d.MainActivity
 firstapp.droid.MainActivity;md5a4c8919ae3c4a199bd19336edffb177d.MainActivity
+FirstApp.Droid.MainApplication, FirstApp.Droid;md5a4c8919ae3c4a199bd19336edffb177d.MainApplication
+FirstApp.Droid.MainApplication, FirstApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a4c8919ae3c4a199bd19336edffb177d.MainApplication
+FirstApp.Droid.MainApplication;md5a4c8919ae3c4a199bd19336edffb177d.MainApplication
+firstapp.droid.MainApplication;md5a4c8919ae3c4a199bd19336edffb177d.MainApplication
 HockeyApp.Android.PrivateEventManager/IHockeyEventListenerImplementor, HockeySDK.AndroidBindings;mono.net.hockeyapp.android.PrivateEventManager_HockeyEventListenerImplementor
 HockeyApp.Android.PrivateEventManager+IHockeyEventListenerImplementor, HockeySDK.AndroidBindings, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.net.hockeyapp.android.PrivateEventManager_HockeyEventListenerImplementor
 HockeyApp.Android.PrivateEventManager.IHockeyEventListenerImplementor;mono.net.hockeyapp.android.PrivateEventManager_HockeyEventListenerImplementor

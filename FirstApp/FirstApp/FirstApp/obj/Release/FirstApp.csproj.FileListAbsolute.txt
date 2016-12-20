@@ -52,9 +52,11 @@ C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstA
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.Page1.xaml.g.cs
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.dll
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.pdb
-C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.dll.mdb
-C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\FirstApp.dll.mdb
-C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.dll.mdb
-C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\FirstApp.dll.mdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.dll
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.pdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.xml
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\Plugin.Permissions.Abstractions.xml
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\obj\Release\FirstApp.dll.mdb
 C:\Users\es.cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\FirstApp\FirstApp\bin\Release\FirstApp.dll.mdb
