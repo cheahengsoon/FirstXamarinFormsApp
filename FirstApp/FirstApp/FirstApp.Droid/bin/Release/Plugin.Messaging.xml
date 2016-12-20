@@ -4,11 +4,6 @@
         <name>Plugin.Messaging</name>
     </assembly>
     <members>
-        <member name="T:Plugin.Messaging.EmailMessageBuilder">
-            <summary>
-                Builder pattern for constructing a <see cref="T:Plugin.Messaging.EmailMessage" />
-            </summary>
-        </member>
         <member name="T:Plugin.Messaging.EmailMessage">
             <summary>
                 Email used for sending e-mails.
@@ -71,6 +66,17 @@
             <summary>
                 Email subject
             </summary>
+        </member>
+        <member name="T:Plugin.Messaging.EmailMessageBuilder">
+            <summary>
+                Builder pattern for constructing a <see cref="T:Plugin.Messaging.EmailMessage" />
+            </summary>
+        </member>
+        <member name="M:Plugin.Messaging.EmailMessageBuilder.WithAttachment(System.String)">
+            <summary>
+                Add the file located at <paramref name="filePath"/> as an attachment
+            </summary>
+            <param name="filePath">Full path to the file to attach</param>
         </member>
         <member name="T:Plugin.Messaging.MessagingPlugin">
             <summary>

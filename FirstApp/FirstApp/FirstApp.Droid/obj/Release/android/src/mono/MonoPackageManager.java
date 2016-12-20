@@ -104,6 +104,10 @@ class MonoPackageManager_Resources {
 		"HockeySDK.AndroidBindings.dll",
 		"HockeySDK.dll",
 		"Plugin.CurrentActivity.dll",
+		"Plugin.Geolocator.Abstractions.dll",
+		"Plugin.Geolocator.dll",
+		"Plugin.Messaging.Abstractions.dll",
+		"Plugin.Messaging.dll",
 		"Plugin.Permissions.Abstractions.dll",
 		"Plugin.Permissions.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
@@ -118,10 +122,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"Plugin.Geolocator.Abstractions.dll",
-		"Plugin.Messaging.Abstractions.dll",
-		"Plugin.Geolocator.dll",
-		"Plugin.Messaging.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
