@@ -66,10 +66,13 @@
       <Project>{5f6f12a3-bc9b-4f73-b9e0-911b919d372b}</Project>
       <Name>FirstApp.Droid</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FirstApp\FirstApp.iOS\FirstApp.iOS.csproj">
-      <Project>{42fd6a90-fbbf-4fea-b79a-1dfea45d0f22}</Project>
-      <Name>FirstApp.iOS</Name>
+    <ProjectReference Include="..\FirstApp\FirstApp\FirstApp.csproj">
+      <Project>{32F7806D-5B4E-4D37-9CB7-3C7242C3E991}</Project>
+      <Name>FirstApp</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

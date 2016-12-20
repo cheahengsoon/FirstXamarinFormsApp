@@ -129,7 +129,7 @@ namespace FirstApp
             Application.Current.Properties["PhoneNo"] = phonenumber;
         }
 
-        async void OnAlertYesNoClicked(object sender, EventArgs e)
+       void OnAlertYesNoClicked(object sender, EventArgs e)
         {
             DependencyService.Get<IAudio>().PlayAudioFile("policesiren.mp3");
         }

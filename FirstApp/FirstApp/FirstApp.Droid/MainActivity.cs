@@ -24,7 +24,7 @@ namespace FirstApp.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
 
-            CrashManager.Register(this, "$Your_App_Id");
+            CrashManager.Register(this, "792f64eea52a4da4820ad477b587904d");
         }
     }
 }
