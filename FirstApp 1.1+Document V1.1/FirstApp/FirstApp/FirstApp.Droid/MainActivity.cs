@@ -26,7 +26,7 @@ namespace FirstApp.Droid
             LoadApplication(new App());
 
             //Hockey App integration problems. Please Check 20161218
-          CrashManager.Register(this, "$Your_App_Id");
+          CrashManager.Register(this, "792f64eea52a4da4820ad477b587904d");
         }
     }
 }
