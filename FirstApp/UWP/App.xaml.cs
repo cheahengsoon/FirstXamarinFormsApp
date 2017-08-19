@@ -16,7 +16,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Microsoft.Azure.Mobile;
 using Microsoft.Azure.Mobile.Analytics;
-using Microsoft.Azure.Mobile.Push;
+//using Microsoft.Azure.Mobile.Push;
 namespace UWP
 {
     /// <summary>
@@ -82,7 +82,7 @@ namespace UWP
             }
             
             //Push Notification
-            MobileCenter.Start("fb66191c-4bf3-4aaa-9894-a3fe76b17f8b", typeof(Push));
+           // MobileCenter.Start("fb66191c-4bf3-4aaa-9894-a3fe76b17f8b", typeof(Push));
         }
 
         /// <summary>

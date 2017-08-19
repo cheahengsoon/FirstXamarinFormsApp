@@ -24,8 +24,11 @@ namespace FirstApp.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
+            //LoadApplication(new App());
 
+            //For .Net Standard Library
+            // LoadApplication(new DotNetStandardClassLibrary.App());
+         
             return base.FinishedLaunching(app, options);
 
             var manager = BITHockeyManager.SharedHockeyManager;

@@ -1,0 +1,5 @@
+C:\Users\cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\DotNetStandardClassLibrary\bin\Debug\netstandard1.4\DotNetStandardClassLibrary.deps.json
+C:\Users\cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\DotNetStandardClassLibrary\bin\Debug\netstandard1.4\DotNetStandardClassLibrary.dll
+C:\Users\cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\DotNetStandardClassLibrary\obj\Debug\netstandard1.4\DotNetStandardClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\DotNetStandardClassLibrary\obj\Debug\netstandard1.4\DotNetStandardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cheah\Documents\GitHub\FirstXamarinFormsApp\FirstApp\DotNetStandardClassLibrary\obj\Debug\netstandard1.4\DotNetStandardClassLibrary.AssemblyInfo.cs

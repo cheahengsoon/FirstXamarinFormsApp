@@ -24,6 +24,9 @@ namespace FirstApp.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
 
+            //For .Net Standard Library
+            LoadApplication(new DotNetStandardClassLibrary.App());
+
             CrashManager.Register(this, "792f64eea52a4da4820ad477b587904d");
         }
         //public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Permission[] grantResults)
